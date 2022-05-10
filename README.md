@@ -1,7 +1,7 @@
 # Symbiote
 
 
-Versi Final
+Final Version
 
 - Not for sale
 - Educational purpose only
